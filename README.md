@@ -1,4 +1,4 @@
-# 📊 Marketing Analytics Dashboard – Portfolio Project  
+# 📊 Marketing Analytics 
 ### SQL Data Cleaning · Sentiment Analysis · Power BI Dashboard
 
 This project showcases a full marketing analytics workflow.  
